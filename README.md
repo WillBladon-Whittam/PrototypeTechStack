@@ -15,7 +15,7 @@ This project includes:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nextjs-auth-app.git
+git clone https://github.com/WillBladon-Whittam/PrototypeTechStack.git
 cd nextjs-auth-app
 ```
 
